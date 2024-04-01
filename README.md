@@ -1,4 +1,4 @@
-# FarmEasy
+# AgriAI
 
 The main goal of the project is to provide utilitarian services, which can make them more productive, like detecting diseases, and to create a platform where farmers can share their resources with their peers
 
